@@ -36,7 +36,7 @@
 
 ## Contact
 - **Email**: pritamawatade@gmail.com
-- **LinkedIn**: [pritamawatade]
+- **LinkedIn**: [[pritamawatade](https://www.linkedin.com/in/pritamawatade/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

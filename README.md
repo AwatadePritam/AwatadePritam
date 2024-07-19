@@ -8,10 +8,8 @@
 - 🔭 I’m currently working on [Reliance Digital](https://reliance-app-clone.vercel.app/).
 - 🌱 I’m currently learning **React.js and Node.js**.
 - 👯 I’m looking to collaborate on open-source projects or innovative web development ideas.
-- 🤔 I’m looking for help with optimizing complex React applications and MongoDB queries.
 - 💬 Ask me about **frontend development**.
 - 📫 How to reach me: **pritamawatade@gmail.com**
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: I enjoy creating clones of popular websites to enhance my coding skills and challenge myself with new technologies.
 
 ## Projects
@@ -38,12 +36,7 @@
 
 ## Contact
 - **Email**: pritamawatade@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-
-## More About Me
-- **Pronouns**: [Your Pronouns]
-- **Fun Fact**: I enjoy creating clones of popular websites to enhance my coding skills and challenge myself with new technologies.
-
+- **LinkedIn**: [pritamawatade]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

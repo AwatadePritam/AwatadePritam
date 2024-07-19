@@ -19,11 +19,9 @@
 - Link: [Reliance Digital](https://reliance-app-clone.vercel.app/)
 
   
-  ### KFC Clone
-- Description: Built a functional clone of the KFC website using HTML, CSS, and JavaScript.
-- Designed and integrated MongoDB collections for assorted food items and user interactions.
-- Created interactive elements and image sliders to enhance user engagement.
-- Technologies: JavaScript, HTML5, CSS3, MongoDB, Express.js, RESTful APIs
+### KFC Clone
+- Description: Built a functional clone of the KFC website
+- Technologies:HTML, CSS, and JavaScript.
 - Live Demo: [KFC Clone Live Demo](#)
 
 ## Skills

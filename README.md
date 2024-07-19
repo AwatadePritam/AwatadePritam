@@ -3,13 +3,47 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awatadepritam&label=Profile%20views&color=0e75b6&style=flat" alt="awatadepritam" /> </p>
 
-- 🔭 I’m currently working on [Reliance Digital](https://reliance-app-clone.vercel.app/)
+# Pritam Awatade
 
-- 🌱 I’m currently learning **React.js , Node.js**
+- 🔭 I’m currently working on [Reliance Digital](https://reliance-app-clone.vercel.app/).
+- 🌱 I’m currently learning **React.js and Node.js**.
+- 👯 I’m looking to collaborate on open-source projects or innovative web development ideas.
+- 🤔 I’m looking for help with optimizing complex React applications and MongoDB queries.
+- 💬 Ask me about **frontend development**.
+- 📫 How to reach me: **pritamawatade@gmail.com**
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: I enjoy creating clones of popular websites to enhance my coding skills and challenge myself with new technologies.
 
-- 💬 Ask me about **Frontend**
+## Projects
 
-- 📫 How to reach me **pritamawatade@gmail.com**
+### Reliance Digital Clone
+- Description: A clone of the Reliance Digital online electronic shopping website.
+- Technologies: React, Chakra UI, MongoDB
+- Link: [Reliance Digital](https://reliance-app-clone.vercel.app/)
+
+## Skills
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools**: Git, GitHub, VSCode
+
+## Experience
+### Tata Consultancy Services
+- **System Engineer** (1.5 years)
+- Worked on IT operations like server services and Linux systems.
+
+## Education
+- **Masai School**
+  - Full-stack web development bootcamp (MERN stack)
+
+## Contact
+- **Email**: pritamawatade@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile]
+
+## More About Me
+- **Pronouns**: [Your Pronouns]
+- **Fun Fact**: I enjoy creating clones of popular websites to enhance my coding skills and challenge myself with new technologies.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

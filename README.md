@@ -78,16 +78,16 @@
 # 💻GitHub Stats
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awatadepritam&show_icons=true&locale=en&layout=compact" alt="awatadepritam" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=awatadepritam&show_icons=true&locale=en&layout=compact" alt="awatadepritam" />
 </div>
 <br/>
 <div>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=awatadepritam&show_icons=true&locale=en" alt="awatadepritam" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=awatadepritam&show_icons=true&locale=en" alt="awatadepritam" />
 </div>
 <br/>
 
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=awatadepritam&" alt="awatadepritam" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awatadepritam&" alt="awatadepritam" />
 </div>
 
 

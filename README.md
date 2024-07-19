@@ -16,7 +16,7 @@
 ### Reliance Digital Clone
 - Description: A clone of the Reliance Digital online electronic shopping website.
 - Technologies: React, Chakra UI, MongoDB
-- Link: [Reliance Digital](https://reliance-app-clone.vercel.app/)
+- Live Demo: [Reliance Digital Live Demo](https://reliance-app-clone.vercel.app/)
 
   
 ### KFC Clone

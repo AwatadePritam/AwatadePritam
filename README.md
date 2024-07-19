@@ -18,6 +18,14 @@
 - Technologies: React, Chakra UI, MongoDB
 - Link: [Reliance Digital](https://reliance-app-clone.vercel.app/)
 
+  
+  ### KFC Clone
+- Description: Built a functional clone of the KFC website using HTML, CSS, and JavaScript.
+- Designed and integrated MongoDB collections for assorted food items and user interactions.
+- Created interactive elements and image sliders to enhance user engagement.
+- Technologies: JavaScript, HTML5, CSS3, MongoDB, Express.js, RESTful APIs
+- Live Demo: [KFC Clone Live Demo](#)
+
 ## Skills
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js

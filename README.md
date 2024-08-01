@@ -40,8 +40,9 @@
   - Full-stack web development bootcamp (MERN stack)
 
 ## Contact
-- **Email**: pritamawatade@gmail.com
-- **LinkedIn**: [[pritamawatade](https://www.linkedin.com/in/pritamawatade/)]
+- **Email**: [pritamawatade](mailto:pritamawatade@gmail.com)
+- **LinkedIn**: [pritamawatade](https://www.linkedin.com/in/pritamawatade/)
+- **Portfolio**: [My Portfolio](https://awatadepritam.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

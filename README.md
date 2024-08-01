@@ -23,7 +23,7 @@
 ### KFC Clone
 - Description: Built a functional clone of the KFC website
 - Technologies:HTML, CSS, and JavaScript.
-- Live Demo: [KFC Clone Live Demo](#)
+- Live Demo: [KFC Clone Live Demo](https://kfc-clone-pi.vercel.app/)
 - Repo Link: [Repo Link](https://github.com/AwatadePritam/KFC_Clone)
 
 ## Skills

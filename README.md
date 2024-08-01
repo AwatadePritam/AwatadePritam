@@ -17,12 +17,14 @@
 - Description: A clone of the Reliance Digital online electronic shopping website.
 - Technologies: React, Chakra UI, MongoDB
 - Live Demo: [Reliance Digital Live Demo](https://reliance-app-clone.vercel.app/)
+- Repo Link: [Repo Link](https://github.com/AwatadePritam/reliance_app_clone)
 
   
 ### KFC Clone
 - Description: Built a functional clone of the KFC website
 - Technologies:HTML, CSS, and JavaScript.
 - Live Demo: [KFC Clone Live Demo](#)
+- Repo Link: [Repo Link](https://github.com/AwatadePritam/KFC_Clone)
 
 ## Skills
 - **Frontend**: HTML, CSS, JavaScript, React.js
